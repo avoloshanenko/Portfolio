@@ -11,14 +11,14 @@ Jira - bug tracker
 PyCharm - integrated development environment for Python
 GitHub 
 ## Tech skills
-SQL
 Python
+SQL
 Software testing
 Creating test cases
 Reporting bugs
 Finding uniqe CSS Selectors and xPaths
 
 ## My projects
-(https://drive.google.com/drive/folders/1DEzlV-uocaCQy9KsSfoxxhUKgY4_s7rN?usp=share_link "Bug Report/Test Report")
-(https://github.com/avoloshanenko/test_robotframework )
-(https://github.com/avoloshanenko/challenge_portfolio_pati)
+[Bug Report/Test Report](https://drive.google.com/drive/folders/1DEzlV-uocaCQy9KsSfoxxhUKgY4_s7rN?usp=share_link)
+[Automated Testing of the site (Robot Framework)](https://github.com/avoloshanenko/test_robotframework )
+[Automated Testing of the site](https://github.com/avoloshanenko/challenge_portfolio_pati)
