@@ -5,11 +5,11 @@ My name is Anzhelika Voloshanenko. I'm starting my journey to master software te
 ## Courses
 IT Fundamentals for Switchers | EPAM
 ## Tools
-Selenium WebDriver - for automated testing of web applications
-Selenium IDE - tool use to support automated testing
-Jira - bug tracker
-PyCharm - integrated development environment for Python
-GitHub 
+Selenium WebDriver - for automated testing of web applications  
+Selenium IDE - tool use to support automated testing  
+Jira - bug tracker    
+PyCharm - integrated development environment for Python 
+GitHub  
 ## Tech skills
 Python
 SQL
